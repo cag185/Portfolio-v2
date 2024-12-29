@@ -4,7 +4,7 @@
       <div class="flex justify-center">
         <div class="bg-yellow-500 h-64 w-64 z-0 rounded-full relative" />
         <div class="mt-4 bg-white h-56 w-56 z-10 rounded-full absolute" />
-        <img src="../assets/Me2.jpeg" class="mt-6 h-52 w-52 rounded-full z-20 absolute" />
+        <img src="../assets/Me.jpeg" class="mt-6 h-52 w-52 rounded-full z-20 absolute" />
       </div>
       <div class="custom-title">Hi, I'm Caleb Gibson</div>
       <div class="custom-subtitle">
