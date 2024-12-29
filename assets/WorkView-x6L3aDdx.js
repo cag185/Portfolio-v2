@@ -1,0 +1,1 @@
+import{_ as o,c as s,a as t,o as c}from"./index-FOCrZ-LH.js";const r={},n={class:"custom-container"};function a(i,e){return c(),s("div",n,e[0]||(e[0]=[t("div",{class:"custom-title"},"Work Experience",-1)]))}const d=o(r,[["render",a]]);export{d as default};
