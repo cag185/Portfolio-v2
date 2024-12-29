@@ -3,5 +3,3 @@
     <div class="custom-title">About</div>
   </div>
 </template>
-
-<div>Testing</div>
