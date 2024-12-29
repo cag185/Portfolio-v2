@@ -1,5 +1,5 @@
 <template>
   <div class="custom-container">
-    <div class="custom-title">About</div>
+    <div class="custom-title">Work Experience</div>
   </div>
 </template>

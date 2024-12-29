@@ -17,6 +17,18 @@ const router = createRouter({
       // which is lazy-loaded when the route is visited.
       component: () => import('../views/AboutView.vue'),
     },
+    {
+      // Route for displaying Projects.
+      path: '/projects',
+      name: 'projects',
+      component: () => import('../views/ProjectsView.vue'),
+    },
+    {
+      // Route for displaying Work Experience.
+      path: '/work-experience',
+      name: 'workExperience',
+      component: () => import('../views/WorkView.vue'),
+    },
   ],
 })
 
