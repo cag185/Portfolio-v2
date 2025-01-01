@@ -10,11 +10,29 @@
 
     <div class="custom-subtitle pt-10">National Park React Native App</div>
     <div class="custom-information-text">Technical Information</div>
+    <!-- Add a link for the github source code -->
+    <!-- Add in an image -->
 
-    <div class="custom-subtitle pt-10">National Park React Native App</div>
+    <div class="custom-subtitle pt-10">Wordle Game Solver Python CMD App</div>
     <div class="custom-information-text">Technical Information</div>
+    <!-- Add a link for the github source code -->
+    <!-- Add in an image -->
 
-    <div class="custom-subtitle pt-10">National Park React Native App</div>
+    <div class="custom-subtitle pt-10">
+      Autonomous Facial Recognition Door Locking Security System
+    </div>
     <div class="custom-information-text">Technical Information</div>
+    <!-- Add a link for the github source code -->
+    <!-- Add in an image -->
+
+    <div class="custom-subtitle pt-10">Simulated Train System Application</div>
+    <div class="custom-information-text">Technical Information</div>
+    <!-- Add a link for the github source code -->
+    <!-- Add in an image -->
+
+    <div class="custom-subtitle pt-10">C++ Multi-level Cache Simulation with Heirarchy</div>
+    <div class="custom-information-text">Technical Information</div>
+    <!-- Add a link for the github source code -->
+    <!-- Add in an image -->
   </div>
 </template>
