@@ -17,4 +17,7 @@ export default defineConfig({
     },
   },
   base: '/Portfolio-v2/',
+  build: {
+    outDir: 'dist',
+  },
 });
