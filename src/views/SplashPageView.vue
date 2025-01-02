@@ -1,7 +1,8 @@
 <template>
   <div class="custom-container pt-10">
     <div class="flex-col space-y-4">
-      <div class="flex justify-center">
+      <div class="bg-green-500 flex justify-center">
+        <!-- <div class="transition-all ease-in-out hover:scale-110"></div> -->
         <div class="bg-yellow-500 h-64 w-64 z-0 rounded-full relative" />
         <div class="mt-4 bg-white h-56 w-56 z-10 rounded-full absolute" />
         <img src="../assets/Me.jpeg" class="mt-6 h-52 w-52 rounded-full z-20 absolute" />
