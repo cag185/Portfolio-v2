@@ -26,6 +26,12 @@ import { RouterLink, RouterView } from 'vue-router'
           to="/work-experience"
           >Work Experience</RouterLink
         >
+
+        <RouterLink
+          class="transition-all ease-in-out hover:text-2xl hover:font-semibold delay-100 duration-1000"
+          to="/resume"
+          >Resume</RouterLink
+        >
       </nav>
     </div>
   </header>

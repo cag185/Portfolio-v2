@@ -29,6 +29,12 @@ const router = createRouter({
       name: 'workExperience',
       component: () => import('../views/WorkView.vue'),
     },
+    {
+      // Route for displaying resume.
+      path: '/resume',
+      name: 'resume',
+      component: () => import('../views/ResumeView.vue'),
+    },
   ],
 })
 
