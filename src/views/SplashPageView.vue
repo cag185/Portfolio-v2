@@ -7,14 +7,17 @@
         <!-- <div class="mt-4 bg-white h-56 w-56 z-10 rounded-full absolute" /> -->
         <img
           src="../assets/Me3.png"
-          class="mt-6 h-72 rounded-full z-20 relative transition-all ease-in-out delay-50 duration-500 hover:scale-110"
+          class="mt-6 h-72 rounded-full relative transition-all ease-in-out delay-50 duration-500 hover:scale-110"
         />
       </div>
-      <div class="custom-title">Hi, I'm Caleb Gibson</div>
+      <div class="flex flex-cols justify-center">
+        <div class="custom-title">Hi, I'm&nbsp;</div>
+        <div class="custom-yellow custom-title">Caleb Gibson</div>
+      </div>
       <div class="custom-subtitle justify-center">
         I'm a full-stack software engineer and I love creating cool stuff!
       </div>
-      <div class="custom-information-text indent-5">
+      <div class="custom-information-text indent-0 space-y-2">
         I am a 24 year old Full-Stack developer based in Pittsburgh, PA. I have a few years of web
         development under my belt, using frameworks like React and Vue, as well as experience in C#
         for backend development. I use SQL, Docker, EF Core, and occasionally Laravel. For the front

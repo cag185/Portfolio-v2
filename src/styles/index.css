@@ -7,21 +7,40 @@
         @apply text-5xl lg:text-6xl text-slate-500 pt-4 text-center font-sans;
     }
     .custom-subtitle {
-        @apply flex text-2xl lg:text-3xl text-center text-red-500 font-normal font-sans;
+        @apply flex text-2xl lg:text-3xl text-center custom-slate-dark font-bold font-sans;
     }
     .custom-information-text {
-        @apply flex text-xl indent-5 lg:text-2xl text-center text-justify text-slate-500 font-normal font-sans;
+        @apply flex text-xl indent-5 lg:text-2xl text-center text-justify custom-slate-dark font-normal font-sans;
     }
     .custom-information-text-container {
         @apply flex w-3/4 flex-row;
     }
     .custom-container {
-        @apply flex m-4 mx-8 lg:mx-32 justify-center flex-col space-y-2;
+        @apply flex m-4 mx-8 lg:mx-32 lg:w-3/5 justify-center justify-self-center flex-col space-y-2 pt-12;
     }
     .project-image {
         @apply flex p2;
     }
     .project-link {
         @apply flex text-xl justify-center font-bold;
+    }
+    .custom-yellow {
+        @apply text-[#fbc517];
+    }
+    .custom-blue {
+        @apply text-[#0378a0]
+    }
+    .custom-red {
+        @apply text-red-500;
+    }
+    .custom-slate-dark {
+        @apply text-slate-500;
+    }
+    .font-outline-2 {
+         -webkit-text-stroke: 0.1px black;
+    }
+    .custom-router-link {
+        @apply transition-all ease-in-out lg:text-2xl hover:scale-110 mx-2 hover:font-semibold delay-100 duration-1000 custom-blue;
+
     }
 }

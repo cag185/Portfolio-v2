@@ -5,33 +5,12 @@ import { RouterLink, RouterView } from 'vue-router'
 <template>
   <header>
     <div class="wrapper">
-      <nav class="flex justify-center space-x-4 text-xl">
-        <RouterLink
-          class="transition-all ease-in-out hover:text-2xl hover:font-semibold delay-100 duration-1000"
-          to="/"
-          >Home</RouterLink
-        >
-        <RouterLink
-          class="transition-all ease-in-out hover:text-2xl hover:font-semibold delay-100 duration-1000"
-          to="/about"
-          >About</RouterLink
-        >
-        <RouterLink
-          class="transition-all ease-in-out hover:text-2xl hover:font-semibold delay-100 duration-1000"
-          to="/projects"
-          >Projects</RouterLink
-        >
-        <RouterLink
-          class="transition-all ease-in-out hover:text-2xl hover:font-semibold delay-100 duration-1000"
-          to="/work-experience"
-          >Work Experience</RouterLink
-        >
-
-        <RouterLink
-          class="transition-all ease-in-out hover:text-2xl hover:font-semibold delay-100 duration-1000"
-          to="/resume"
-          >Resume</RouterLink
-        >
+      <nav class="flex justify-self-end text-xl py-4 px-8 lg:px-24">
+        <RouterLink class="custom-router-link" to="/">Home</RouterLink>
+        <RouterLink class="custom-router-link" to="/about">About</RouterLink>
+        <RouterLink class="custom-router-link" to="/projects">Projects</RouterLink>
+        <RouterLink class="custom-router-link" to="/work-experience">Work Experience</RouterLink>
+        <RouterLink class="custom-router-link" to="/resume">Resume</RouterLink>
       </nav>
     </div>
   </header>
