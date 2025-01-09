@@ -10,9 +10,18 @@
         @apply flex text-2xl lg:text-3xl text-center text-red-500 font-normal font-sans;
     }
     .custom-information-text {
-        @apply flex text-xl lg:text-2xl text-center text-justify text-slate-500 font-normal font-sans;
+        @apply flex text-xl indent-5 lg:text-2xl text-center text-justify text-slate-500 font-normal font-sans;
+    }
+    .custom-information-text-container {
+        @apply flex w-3/4 flex-row;
     }
     .custom-container {
         @apply flex m-4 mx-8 lg:mx-32 justify-center flex-col space-y-2;
+    }
+    .project-image {
+        @apply flex p2;
+    }
+    .project-link {
+        @apply flex text-xl justify-center font-bold;
     }
 }
