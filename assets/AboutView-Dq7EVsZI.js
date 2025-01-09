@@ -1,1 +1,0 @@
-import{_ as e,c as o,a as s,o as c}from"./index-BefgJ1TA.js";const a={},n={class:"custom-container"};function r(i,t){return c(),o("div",n,t[0]||(t[0]=[s("div",{class:"custom-title"},"About",-1)]))}const d=e(a,[["render",r]]);export{d as default};
