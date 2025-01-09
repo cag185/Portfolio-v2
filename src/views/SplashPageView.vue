@@ -14,7 +14,7 @@
         <div class="custom-title">Hi, I'm&nbsp;</div>
         <div class="custom-yellow custom-title">Caleb Gibson</div>
       </div>
-      <div class="custom-subtitle justify-center">
+      <div class="custom-subtitle custom-slate-dark justify-center">
         I'm a full-stack software engineer and I love creating cool stuff!
       </div>
       <div class="custom-information-text indent-0 space-y-2">

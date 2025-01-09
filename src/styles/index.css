@@ -7,7 +7,7 @@
         @apply text-5xl lg:text-6xl text-slate-500 pt-4 text-center font-sans;
     }
     .custom-subtitle {
-        @apply flex text-2xl lg:text-3xl text-center custom-slate-dark font-bold font-sans;
+        @apply flex text-2xl lg:text-3xl text-center custom-red font-bold font-sans;
     }
     .custom-information-text {
         @apply flex text-xl indent-5 lg:text-2xl text-center text-justify custom-slate-dark font-normal font-sans;
@@ -31,7 +31,7 @@
         @apply text-[#0378a0]
     }
     .custom-red {
-        @apply text-red-500;
+        @apply text-[#d74a12];
     }
     .custom-slate-dark {
         @apply text-slate-500;
