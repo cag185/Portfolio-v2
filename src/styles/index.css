@@ -12,17 +12,26 @@
     .custom-information-text {
         @apply flex text-xl indent-5 lg:text-2xl text-center text-justify custom-slate-dark font-normal font-sans;
     }
+    .custom-project-information-text {
+        @apply flex text-xl indent-5 lg:text-2xl w-3/4 px-2 text-justify custom-slate-dark font-normal font-sans;
+    }
     .custom-information-text-container {
-        @apply flex w-3/4 flex-row;
+        @apply flex w-full flex-row space-x-10 pt-5 justify-between;
     }
     .custom-container {
         @apply flex m-4 mx-8 lg:mx-32 lg:w-3/5 justify-center justify-self-center flex-col space-y-2 pt-12;
+    }
+    .custom-project-container {
+        @apply flex m-4 mx-8 lg:mx-32 lg:w-3/4 justify-center justify-self-center flex-col space-y-2 pt-12;
     }
     .project-image {
         @apply flex p2;
     }
     .project-link {
-        @apply flex text-xl justify-center font-bold;
+        @apply flex text-xl px-4 py-1 w-40 align-middle text-white justify-center font-normal h-10 rounded-full custom-blue-background;
+    }
+    .project-container {
+        @apply pb-20;
     }
     .custom-yellow {
         @apply text-[#fbc517];
@@ -30,17 +39,25 @@
     .custom-blue {
         @apply text-[#0378a0]
     }
+    .custom-blue-background {
+        @apply bg-[#0378a0];
+    }
     .custom-red {
         @apply text-[#d74a12];
     }
     .custom-slate-dark {
         @apply text-slate-500;
     }
+    .custom-slate {
+        @apply text-slate-300;
+    }
     .font-outline-2 {
          -webkit-text-stroke: 0.1px black;
     }
     .custom-router-link {
         @apply transition-all ease-in-out lg:text-2xl hover:scale-110 mx-2 hover:font-semibold delay-100 duration-1000 custom-blue;
-
+    }
+    .custom-project-img-bundler {
+        @apply flex w-1/2 items-center align-middle space-y-2 flex-col;
     }
 }
