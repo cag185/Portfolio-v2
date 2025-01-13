@@ -1,6 +1,6 @@
 <template>
   <div class="custom-project-container">
-    <div class="custom-title">Projects</div>
+    <div class="custom-title pb-2">Projects</div>
     <hr class="w-48 h-1 mx-auto my-2 bg-gray-300 border-0 rounded" />
 
     <p class="custom-information-text indent-5 pb-10">
