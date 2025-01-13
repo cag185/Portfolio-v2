@@ -6,10 +6,10 @@
     </div>
 
     <div class="pl-5 pt-10 flex-col justify-left space-y-20">
-      <div>
+      <div class="flex space-y-2 flex-col">
         <div class="custom-subtitle font-bold">The Restaurant Store</div>
         <div class="custom-dates">May-2023 | Current</div>
-        <div class="custom-information-text">
+        <div class="custom-information-text pt-5">
           I started off at the Restaurant store as an intern in software engineering. Over the
           summer I was exposed to a multitude of projects, including our E-commerce website, the
           Point Of Sales Machine, our API, and the administration management site. I was hired on as
@@ -24,10 +24,10 @@
           for Git control and task management.
         </div>
       </div>
-      <div>
+      <div class="flex space-y-2 flex-col">
         <div class="custom-subtitle font-bold">SMS Group</div>
         <div class="custom-dates">July-2021 | March-2022</div>
-        <div class="custom-information-text">
+        <div class="custom-information-text pt-5">
           My time at SMS group as a computer engineering co-op taught me some basic front end
           development skills. We also used C# and Dotnet for the backend, where I learned about
           Model-View-viewModel patterns. I mostly helped work on the Human Machine interface, which

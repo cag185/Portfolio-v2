@@ -10,7 +10,7 @@
         @apply text-2xl lg:text-3xl text-center custom-red font-bold font-sans lg:text-left;
     }
     .custom-dates {
-        @apply text-xl lg:text-2xl text-center custom-yellow font-bold font-sans lg:text-left;
+        @apply text-xl lg:text-2xl text-center custom-slate-dark font-bold font-sans lg:text-left;
     }
     .custom-information-text {
         @apply text-xl indent-5 lg:text-2xl text-center text-justify custom-slate-dark font-normal font-sans;
