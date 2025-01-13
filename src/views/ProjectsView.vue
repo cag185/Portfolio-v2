@@ -9,8 +9,8 @@
     </p>
 
     <div class="project-container">
-      <div class="custom-subtitle pt-10">National Park React Native App</div>
-      <div class="custom-information-text-container flex flex-row">
+      <div class="custom-subtitle py-10">National Park React Native App</div>
+      <div class="custom-information-text-container">
         <div class="custom-project-information-text">
           This project was a combination of a college software project and passion idea that I had.
           I created a react native app that uses Expo Go to host on my local machine and display on
@@ -22,7 +22,7 @@
           user accounts via friending.
         </div>
         <div class="custom-project-img-bundler">
-          <img src="../assets/SmokyMountains.jpeg" class="h-64 rounded-lg relative" />
+          <img src="../assets/SmokyMountains.jpeg" class="h-80 w-auto rounded-lg relative" />
           <a class="project-link" href="https://github.com/cag185/National-Park-Bucket-List"
             >Github Link</a
           >
@@ -31,10 +31,10 @@
     </div>
 
     <div class="project-container">
-      <div class="custom-subtitle pt-10">
+      <div class="custom-subtitle py-10">
         Autonomous Facial Recognition Door Locking Security System
       </div>
-      <div class="custom-information-text-container flex flex-row">
+      <div class="custom-information-text-container">
         <div class="custom-project-information-text">
           This project was a college idea where we were in a team of three engineers, each
           responsible for contributing to creating an autonomous security device. We decided to
@@ -47,7 +47,7 @@
           system or not. I made use of the public python library Sci-kit learn for this project.
         </div>
         <div class="custom-project-img-bundler">
-          <img src="../assets/FacialRecognition.jpg" class="h-64 rounded-lg relative" />
+          <img src="../assets/FacialRecognition.jpg" class="h-80 rounded-lg relative" />
           <a class="project-link" href="https://github.com/cag185/Facial-Recognition"
             >Github Link</a
           >
@@ -56,8 +56,8 @@
     </div>
 
     <div class="project-container">
-      <div class="custom-subtitle pt-10">Personal Photography Website</div>
-      <div class="custom-information-text-container flex flex-row">
+      <div class="custom-subtitle py-10">Personal Photography Website</div>
+      <div class="custom-information-text-container">
         <div class="custom-project-information-text">
           Photoraphy has always been a hobby of mine. I love creating amazing compositions and
           framing people in a new way. I decided to use my full stack skills to create a vue based
@@ -67,7 +67,7 @@
           scheduling system to book photography sessions.
         </div>
         <div class="custom-project-img-bundler">
-          <img src="../assets/Photography.png" class="h-64 rounded-lg relative" />
+          <img src="../assets/Photography.png" class="h-96 rounded-lg relative" />
           <a class="project-link" href="https://github.com/cag185/photography-website"
             >Github Link</a
           >
@@ -76,8 +76,8 @@
     </div>
 
     <div class="project-container">
-      <div class="custom-subtitle pt-10">Wordle Game Solver Python CMD App</div>
-      <div class="custom-information-text-container flex flex-row">
+      <div class="custom-subtitle py-10">Wordle Game Solver Python CMD App</div>
+      <div class="custom-information-text-container">
         <div class="custom-project-information-text">
           This was a fun little project I created to pass time during Covid-19 in quarentine. I was
           playing a lot of Wordle, and thought to myself this would be easy to create a program to
@@ -91,15 +91,15 @@
           user.
         </div>
         <div class="custom-project-img-bundler">
-          <img src="../assets/Wordle.png" class="h-64 rounded-lg relative" />
+          <img src="../assets/Wordle.png" class="h-72 rounded-lg relative" />
           <a class="project-link" href="https://github.com/cag185/WordleHelper">Github Link</a>
         </div>
       </div>
     </div>
 
     <div class="project-container">
-      <div class="custom-subtitle pt-10">Simulated Train System Application</div>
-      <div class="custom-information-text-container flex flex-row">
+      <div class="custom-subtitle py-10">Simulated Train System Application</div>
+      <div class="custom-information-text-container">
         <div class="custom-project-information-text">
           Trains, the bane of existence for a sophomore/junior computer engineer at the University
           Of Pittsburgh. This semester long class was based around a grueling group project where we
@@ -122,15 +122,15 @@
           office). The stack used was javascript and typescript as well as electron and eslinter.
         </div>
         <div class="custom-project-img-bundler">
-          <img src="../assets/TrainMap.jpg" class="h-64 rounded-lg relative" />
+          <img src="../assets/TrainMap.jpg" class="h-80 rounded-lg relative" />
           <a class="project-link" href="https://github.com/ctrlaltf2/trains">Github Link</a>
         </div>
       </div>
     </div>
 
     <div class="project-container">
-      <div class="custom-subtitle pt-10">C++ Multi-level Cache Simulation with Heirarchy</div>
-      <div class="custom-information-text-container flex flex-row">
+      <div class="custom-subtitle py-10">C++ Multi-level Cache Simulation with Heirarchy</div>
+      <div class="custom-information-text-container">
         <div class="custom-project-information-text">
           This project was a combination of a college software project and passion idea that I had.
           I created a react native app that uses Expo Go to host on my local machine and display on
@@ -142,7 +142,7 @@
           user accounts via friending.
         </div>
         <div class="custom-project-img-bundler">
-          <img src="../assets/Cache.jpg" class="h-64 rounded-lg relative" />
+          <img src="../assets/Cache.jpg" class="h-80 rounded-lg relative" />
           <a class="project-link" href="https://github.com/cag185/CacheSimulation">Github Link</a>
         </div>
       </div>

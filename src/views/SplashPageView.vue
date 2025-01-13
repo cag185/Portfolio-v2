@@ -2,9 +2,6 @@
   <div class="custom-container pt-10">
     <div class="flex-col space-y-4">
       <div class="flex justify-center">
-        <!-- <div class="transition-all ease-in-out hover:scale-110"></div> -->
-        <!-- <div class="bg-yellow-500 h-64 w-64 z-0 rounded-full relative" /> -->
-        <!-- <div class="mt-4 bg-white h-56 w-56 z-10 rounded-full absolute" /> -->
         <img
           src="../assets/Me3.png"
           class="mt-6 h-72 rounded-full relative transition-all ease-in-out delay-50 duration-500 hover:scale-110"

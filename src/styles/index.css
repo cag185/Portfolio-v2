@@ -7,16 +7,16 @@
         @apply text-5xl lg:text-6xl text-slate-500 pt-4 text-center font-sans;
     }
     .custom-subtitle {
-        @apply flex text-2xl lg:text-3xl text-center custom-red font-bold font-sans;
+        @apply text-2xl lg:text-3xl text-center custom-red font-bold font-sans lg:text-left;
     }
     .custom-information-text {
-        @apply flex text-xl indent-5 lg:text-2xl text-center text-justify custom-slate-dark font-normal font-sans;
+        @apply text-xl indent-5 lg:text-2xl text-center text-justify custom-slate-dark font-normal font-sans;
     }
     .custom-project-information-text {
-        @apply flex text-xl indent-5 lg:text-2xl w-3/4 px-2 text-justify custom-slate-dark font-normal font-sans;
+        @apply text-xl indent-5 lg:text-2xl w-3/4 px-2 mx-auto text-justify custom-slate-dark font-normal font-sans;
     }
     .custom-information-text-container {
-        @apply flex w-full flex-row space-x-10 pt-5 justify-between;
+        @apply flex w-full space-x-10 items-center lg:items-start md:justify-between flex-col md:flex-row;
     }
     .custom-container {
         @apply flex m-4 mx-8 lg:mx-32 lg:w-3/5 justify-center justify-self-center flex-col space-y-2 pt-12;
@@ -28,10 +28,10 @@
         @apply flex p2;
     }
     .project-link {
-        @apply flex text-xl px-4 py-1 w-40 align-middle text-white justify-center font-normal h-10 rounded-full custom-blue-background;
+        @apply flex text-xl px-4 py-1 w-40 align-middle text-white justify-center font-normal h-10 rounded-full custom-blue-background hover:bg-blue-500 delay-100 duration-500;
     }
     .project-container {
-        @apply pb-20;
+        @apply pb-20; 
     }
     .custom-yellow {
         @apply text-[#fbc517];
@@ -58,6 +58,6 @@
         @apply transition-all ease-in-out lg:text-2xl hover:scale-110 mx-2 hover:font-semibold delay-100 duration-1000 custom-blue;
     }
     .custom-project-img-bundler {
-        @apply flex w-1/2 items-center align-middle space-y-2 flex-col;
+        @apply flex w-auto items-center pt-6 lg:pt-0 space-y-4 flex-col;
     }
 }
