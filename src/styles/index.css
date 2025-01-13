@@ -21,6 +21,9 @@
     .custom-container {
         @apply flex m-4 mx-8 lg:mx-32 lg:w-3/5 justify-center justify-self-center flex-col space-y-2 pt-12;
     }
+    .custom-resume-container {
+        @apply flex w-full px-4 lg:mx-32 lg:w-3/5 justify-self-center flex-col space-y-2 pt-12;
+    }
     .custom-project-container {
         @apply flex m-4 mx-8 lg:mx-32 lg:w-3/4 justify-center justify-self-center flex-col space-y-2 pt-12;
     }
