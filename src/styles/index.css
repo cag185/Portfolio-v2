@@ -9,6 +9,9 @@
     .custom-subtitle {
         @apply text-2xl lg:text-3xl text-center custom-red font-bold font-sans lg:text-left;
     }
+    .custom-dates {
+        @apply text-xl lg:text-2xl text-center custom-yellow font-bold font-sans lg:text-left;
+    }
     .custom-information-text {
         @apply text-xl indent-5 lg:text-2xl text-center text-justify custom-slate-dark font-normal font-sans;
     }
@@ -19,7 +22,7 @@
         @apply flex w-full space-x-10 items-center lg:items-start md:justify-between flex-col md:flex-row;
     }
     .custom-container {
-        @apply flex m-4 mx-8 lg:mx-32 lg:w-3/5 justify-center justify-self-center flex-col space-y-2 pt-12;
+        @apply flex m-4 mx-8 pb-20 lg:mx-32 lg:w-3/5 justify-center justify-self-center flex-col space-y-2 pt-12;
     }
     .custom-resume-container {
         @apply flex w-full px-4 lg:mx-32 lg:w-3/5 justify-self-center flex-col space-y-2 pt-12;
