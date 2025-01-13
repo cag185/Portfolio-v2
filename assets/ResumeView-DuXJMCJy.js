@@ -1,0 +1,1 @@
+import{_ as t,c,b as s,o as a}from"./index-CFWmUtYO.js";const o={},n={class:"custom-container space-y-4"};function l(r,e){return a(),c("div",n,e[0]||(e[0]=[s("div",{class:"custom-title"},"Resume",-1),s("embed",{src:"../assets/Caleb_Gibson_Resume_Fall_2024.pdf",type:"application/pdf",class:"w-full h-screen"},null,-1)]))}const i=t(o,[["render",l]]);export{i as default};
