@@ -1,0 +1,1 @@
+import{_ as c,c as t,b as s,o}from"./index-CxicVSUC.js";const a={},n={class:"custom-container space-y-4"};function l(r,e){return o(),t("div",n,e[0]||(e[0]=[s("div",{class:"custom-title"},"Resume",-1),s("embed",{src:"../Caleb_Gibson_Resume_Fall_2024.pdf",type:"application/pdf",class:"w-full h-screen"},null,-1)]))}const i=c(a,[["render",l]]);export{i as default};
